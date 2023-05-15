@@ -1,0 +1,5 @@
+[run]
+omit =
+    tests/*
+parallel = true
+data_file = reports/.coverage
